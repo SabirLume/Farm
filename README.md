@@ -16,7 +16,3 @@ I made this web application with both JavaScript, HTML, and CSS. The user can cl
 ## Lessons Learned:
 
 While making this web application I further my understanding of how to use .onClick and how Math.random can be used to move images. 
-
-
-##Changes
-I made some color changes to buttons
