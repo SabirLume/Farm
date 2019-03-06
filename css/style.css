@@ -1,0 +1,29 @@
+body{
+  background-image: url("../farmhd.jpg");
+  width: 100%;
+  height:700px;
+  background-size: cover;
+}
+
+
+
+img{
+  width: 20%;
+  height: 200px;
+}
+
+#sheep {
+  position: absolute;
+  top: 477px;
+  left: 30px;
+}
+#donald{
+  position: absolute;
+  top: 477px;
+  left: 300px;
+}
+#chicken{
+  position: absolute;
+  top: 400px;
+  left: 1000px;
+}
