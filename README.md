@@ -5,7 +5,7 @@ For this project I made a farm. Where you can click the animals on the farm and 
 
 Link to my project: https://github.com/SabirLume/Farm.git
 
-![alt text](slot.png)
+![alt text](farm.png)
 
 ## How It's Made:
 
